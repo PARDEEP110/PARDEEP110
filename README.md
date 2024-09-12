@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @PARDEEP110
-- 👀 I’m interested in html,css,java
-- 🌱 I’m currently learning css,java
+- 👀 I’m interested in html,css,java script
+- 🌱 I’m currently learning java script
 - 💞️ I’m looking to collaborate on none
 - 📫 How to reach me dont reach me
-- 😄 Pronouns: 
+- 😄 Pronouns: man
 - ⚡ Fun fact: none
 
 <!---
